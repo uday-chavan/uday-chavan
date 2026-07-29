@@ -10,14 +10,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </p>
-
-<hr/>
-
-<!-- ===================== LEETCODE CONTEST GRAPH ===================== -->
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/Uday_Chavan25?theme=dark&font=Karma&ext=contest" 
-    alt="LeetCode Contest Graph"
-    width="85%"
-  />
-</p>
